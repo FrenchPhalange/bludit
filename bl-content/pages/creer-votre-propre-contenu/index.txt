@@ -1,1 +1,0 @@
-<p>Commencez à écrire votre propre contenu ou modifiez celui-ci pour l’adapter à vos besoins. Pour créer, modifier ou supprimer du contenu, vous devez vous connecter au [panneau d’administration](./admin) avec le nom d’utilisateur `admin` et le mot de passe que vous avez défini lors du processus d'installation.</p>
