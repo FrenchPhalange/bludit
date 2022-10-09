@@ -1,0 +1,1 @@
+<p>Mettez à jour les paramètres de votre site à partir du [panneau d’administration](./admin), vous pouvez modifier le titre, la description et les réseaux sociaux dans les [Paramètres généraux](./admin/settings).</p>
