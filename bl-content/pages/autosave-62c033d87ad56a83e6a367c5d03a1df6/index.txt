@@ -1,0 +1,52 @@
+<p>Vous êtes développeur et vous cherchez un moyen de créer des projets de qualité professionnelle sans avoir à tout réinventer ?</p>
+<p>Alors Laravel et Jetstream sont peut-être ce qu'il vous faut !</p>
+<p>Laravel est un framework PHP open source qui vous permet de développer des applications web en un temps record. Il offre une tonne de fonctionnalités cool pour vous faciliter la vie, comme l'authentification, la gestion des bases de données, le routage et le déploiement.</p>
+<p>Et si vous trouvez que Laravel est déjà génial, attendez de voir Jetstream ! C'est une collection de bibliothèques et de modèles qui vous aideront à créer des projets de qualité professionnelle en un clin d'œil. Jetstream vous offre une interface utilisateur moderne et intuitive, ainsi que des fonctionnalités comme l'authentification, la gestion des utilisateurs et des rôles, la notification par email et la gestion de l'état de l'application.</p>
+<p>En somme, Laravel et Jetstream sont l'outil idéal pour les développeurs qui veulent créer des projets de qualité professionnelle sans avoir à tout refaire de zéro. Ils sont flexibles et faciles à personnaliser selon vos besoins, et en plus ils sont super bien documentés ! Vous trouverez plein de tutoriels et d'exemples de code en ligne pour vous aider à les utiliser de manière efficace.</p>
+<p>Alors n'hésitez plus, jetez-vous à l'eau avec Laravel et Jetstream ! Vous ne serez pas déçu</p>
+<p>En plus de Laravel et Jetstream, il existe d'autres outils qui peuvent être utiles pour le développement de projets web de qualité professionnelle.</p>
+<p>TailwindCSS est une bibliothèque de styles CSS qui vous permet de créer des interfaces utilisateur modernes et élégantes sans avoir à écrire de code CSS de zéro. Elle offre une grande variété de classes prédéfinies qui vous permettent de styliser facilement votre interface utilisateur.</p>
+<p>Vue.JS est un framework JavaScript qui vous permet de créer des interfaces utilisateur interactives en utilisant des composants réutilisables. Il est particulièrement utile pour les projets qui nécessitent une grande quantité de données mises à jour en temps réel, comme les applications de gestion de projet ou de suivi des stocks.</p>
+<p>En utilisant Laravel, Jetstream, TailwindCSS et Vue.JS ensemble, vous pouvez créer rapidement des projets de qualité professionnelle qui offrent une expérience utilisateur fluide et agréable. N'oubliez pas de vous réchauffer avant de développer et de prendre soin de vous en buvant suffisamment d'eau pendant et après votre séance de développement. Et surtout, n'oubliez pas de vous amuser !</p>
+<p>Développer des projets web peut être un vrai plaisir si vous avez l'outil adéquat.</p>
+<p>Voici un exemple de code pour créer une nouvelle route et une vue dans Laravel avec Jetstream :</p>
+<ul style="list-style-type: circle;">
+<li>Dans le fichier <span style="font-family: 'SFMono-Regular', Menlo, Consolas, 'PT Mono', 'Liberation Mono', Courier, monospace; line-height: normal; background: rgba(135,131,120,0.15); color: #eb5757; border-radius: 3px; font-size: 85%; padding: 0.2em 0.4em; font-weight: 600;" data-token-index="1" spellcheck="false" class="notion-enable-hover" data-reactroot="">routes/web.php</span>, ajoutez la ligne suivante pour définir une nouvelle route :</li>
+</ul>
+<p><img src="http://localhost:8000/bl-content/uploads/pages/62c033d87ad56a83e6a367c5d03a1df6/pika-1672324586516-1x.png" alt=""></p>
+<ul style="list-style-type: circle;">
+<li>Créez un nouveau fichier dans le dossier <span style="font-family: 'SFMono-Regular', Menlo, Consolas, 'PT Mono', 'Liberation Mono', Courier, monospace; line-height: normal; background: rgba(135,131,120,0.15); color: #eb5757; border-radius: 3px; font-size: 85%; padding: 0.2em 0.4em; font-weight: 600;" data-token-index="1" spellcheck="false" class="notion-enable-hover" data-reactroot="">resources/views</span> nommé <span style="font-family: 'SFMono-Regular', Menlo, Consolas, 'PT Mono', 'Liberation Mono', Courier, monospace; line-height: normal; background: rgba(135,131,120,0.15); color: #eb5757; border-radius: 3px; font-size: 85%; padding: 0.2em 0.4em; font-weight: 600;" data-token-index="3" spellcheck="false" class="notion-enable-hover" data-reactroot="">ma-vue.blade.php</span> et ajoutez-y le code HTML de votre vue.</li>
+<li>Dans votre navigateur, allez à l'adresse <span style="font-family: 'SFMono-Regular', Menlo, Consolas, 'PT Mono', 'Liberation Mono', Courier, monospace; line-height: normal; background: rgba(135,131,120,0.15); color: #eb5757; border-radius: 3px; font-size: 85%; padding: 0.2em 0.4em; font-weight: 600;" data-token-index="1" spellcheck="false" class="notion-enable-hover" data-reactroot="">/ma-route</span> pour afficher votre nouvelle vue.<br><br>Voici un exemple de code pour appliquer un style à un élément HTML à l'aide de TailwindCSS :</li>
+<li>Ajoutez la ligne suivante dans le fichier <span style="font-family: 'SFMono-Regular', Menlo, Consolas, 'PT Mono', 'Liberation Mono', Courier, monospace; line-height: normal; background: rgba(135,131,120,0.15); color: #eb5757; border-radius: 3px; font-size: 85%; padding: 0.2em 0.4em; font-weight: 600;" data-token-index="1" spellcheck="false" class="notion-enable-hover" data-reactroot="">&lt;head&gt;</span> de votre fichier HTML pour inclure la bibliothèque de styles de TailwindCSS</li>
+</ul>
+<p><img src="http://localhost:8000/bl-content/uploads/pages/62c033d87ad56a83e6a367c5d03a1df6/pika-1672324727865-1x.png" alt=""></p>
+<ul style="list-style-type: circle;">
+<li>Dans votre code HTML, ajoutez la classe <span style="font-family: 'SFMono-Regular', Menlo, Consolas, 'PT Mono', 'Liberation Mono', Courier, monospace; line-height: normal; background: rgba(135,131,120,0.15); color: #eb5757; border-radius: 3px; font-size: 85%; padding: 0.2em 0.4em; font-weight: 600;" data-token-index="1" spellcheck="false" class="notion-enable-hover" data-reactroot="">bg-blue-500</span> à un élément pour lui donner un fond bleu :</li>
+</ul>
+<p><img src="http://localhost:8000/bl-content/uploads/pages/62c033d87ad56a83e6a367c5d03a1df6/pika-1672324830319-1x.png" alt=""></p>
+<p></p>
+<p>Exemple d'utilisation de Vue.JS :</p>
+<p>Voici un exemple de code pour créer un composant Vue.JS qui affiche une liste de noms :</p>
+<ul style="list-style-type: circle;">
+<li>Ajoutez la ligne suivante dans le fichier <span style="font-family: 'SFMono-Regular', Menlo, Consolas, 'PT Mono', 'Liberation Mono', Courier, monospace; line-height: normal; background: rgba(135,131,120,0.15); color: #eb5757; border-radius: 3px; font-size: 85%; padding: 0.2em 0.4em; font-weight: 600;" data-token-index="1" spellcheck="false" class="notion-enable-hover" data-reactroot="">&lt;head&gt;</span> de votre fichier HTML pour inclure la bibliothèque de Vue.JS :</li>
+</ul>
+<p><img src="http://localhost:8000/bl-content/uploads/pages/62c033d87ad56a83e6a367c5d03a1df6/pika-1672324900971-1x.png" alt=""></p>
+<ul style="list-style-type: circle;">
+<li>Créez un nouveau composant Vue.JS nommé <span style="font-family: 'SFMono-Regular', Menlo, Consolas, 'PT Mono', 'Liberation Mono', Courier, monospace; line-height: normal; background: rgba(135,131,120,0.15); color: #eb5757; border-radius: 3px; font-size: 85%; padding: 0.2em 0.4em; font-weight: 600;" data-token-index="1" spellcheck="false" class="notion-enable-hover" data-reactroot="">ListeNoms</span> :</li>
+</ul>
+<p><img src="http://localhost:8000/bl-content/uploads/pages/62c033d87ad56a83e6a367c5d03a1df6/pika-1672324954022-1x.png" alt=""></p>
+<ul style="list-style-type: circle;">
+<li>Ajoutez le composant <span style="font-family: 'SFMono-Regular', Menlo, Consolas, 'PT Mono', 'Liberation Mono', Courier, monospace; line-height: normal; background: rgba(135,131,120,0.15); color: #eb5757; border-radius: 3px; font-size: 85%; padding: 0.2em 0.4em; font-weight: 600;" data-token-index="1" spellcheck="false" class="notion-enable-hover" data-reactroot="">ListeNoms</span> à votre vue Vue.JS :</li>
+<li>Dans votre code HTML, ajoutez un élément <span style="font-family: 'SFMono-Regular', Menlo, Consolas, 'PT Mono', 'Liberation Mono', Courier, monospace; line-height: normal; background: rgba(135,131,120,0.15); color: #eb5757; border-radius: 3px; font-size: 85%; padding: 0.2em 0.4em; font-weight: 600;" data-token-index="1" spellcheck="false" class="notion-enable-hover" data-reactroot="">div</span> avec l'ID <span style="font-family: 'SFMono-Regular', Menlo, Consolas, 'PT Mono', 'Liberation Mono', Courier, monospace; line-height: normal; background: rgba(135,131,120,0.15); color: #eb5757; border-radius: 3px; font-size: 85%; padding: 0.2em 0.4em; font-weight: 600;" data-token-index="3" spellcheck="false" class="notion-enable-hover" data-reactroot="">app</span> pour activer votre vue Vue.JS :</li>
+</ul>
+<p><img src="http://localhost:8000/bl-content/uploads/pages/62c033d87ad56a83e6a367c5d03a1df6/pika-1672325085984-1x.png" alt=""></p>
+<ul style="list-style-type: circle;">
+<li>Initialisez votre vue Vue.JS en ajoutant le code suivant à la fin de votre fichier HTML :</li>
+</ul>
+<p><img src="http://localhost:8000/bl-content/uploads/pages/62c033d87ad56a83e6a367c5d03a1df6/pika-1672325138971-1x.png" alt=""></p>
+<ul style="list-style-type: circle;">
+<li>Votre vue Vue.JS est maintenant active et prête à utiliser vos composants. Vous pouvez en ajouter autant que vous le souhaitez en les déclarant dans la section <span style="font-family: 'SFMono-Regular', Menlo, Consolas, 'PT Mono', 'Liberation Mono', Courier, monospace; line-height: normal; background: rgba(135,131,120,0.15); color: #eb5757; border-radius: 3px; font-size: 85%; padding: 0.2em 0.4em; font-weight: 600;" data-token-index="1" spellcheck="false" class="notion-enable-hover" data-reactroot="">components</span> de votre vue, comme dans l'exemple suivant :</li>
+</ul>
+<p><img src="http://localhost:8000/bl-content/uploads/pages/62c033d87ad56a83e6a367c5d03a1df6/pika-1672325187439-1x.png" alt=""></p>
+<p>Et voilà, vous savez maintenant comment utiliser Laravel, Jetstream, TailwindCSS et Vue.JS pour créer des projets web de qualité professionnelle ! N'hésitez pas à explorer leurs documentations pour découvrir toutes leurs fonctionnalités et à expérimenter avec eux pour mettre en pratique vos connaissances.</p>
+<p>Bon développement !</p>
