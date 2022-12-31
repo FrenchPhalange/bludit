@@ -1,40 +1,29 @@
-<h2><img src="https://www.privacytools.io/img/apps/fedora.svg" width="50" height="50"> <a href="https://getfedora.org/fr/workstation/" target="_blank" rel="noopener">Fedora Workstation</a> :</h2>
-<blockquote>
-<p><em>"  User friendly and easy to setup.  "</em></p>
-</blockquote>
-<p><strong>Fedora</strong> est une distribution Linux basée sur le système d'exploitation <strong>GNU/Linux</strong> servant de vitrine aux logiciels libres les plus récents ! Fedora est libre : tout le monde peut l'utiliser, la modifier et la distribuer. Elle est construite de par le monde par des personnes regroupées autour d'une communauté : </p>
-<p>Le Projet Fedora est un projet ouvert, tout le monde peut participer.<br>Le Projet Fedora est leader dans le développement de logiciels et contenus libres.</p>
-<p>Convivialité et facilité d'installation, voici comment le définir...<br>L'historique de Fedora est inextricable de l'historique de <a href="https://www.redhat.com/fr" target="_blank" rel="noopener">Red Hat</a>.</p>
-<p>La circulation a d'abord été appelée "<strong>Fedora Linux</strong>", après cela "<strong>Fedora Core</strong>", avant de se décider finalement pour Fedora tout court.Fedora Linux était un repo tiers pour la version originale de Red Hat Linux, tandis que Fedora Core était une version totalement libre maintenue par la communauté de Red Hat Enterprise Linux.</p>
-<p></p>
-<h2><img src="https://www.privacytools.io/img/apps/whonix.svg" width="59" height="59" style="font-size: 16px;"> <a href="https://www.whonix.org/wiki/Download" target="_blank" rel="noopener">Whonix</a> : </h2>
-<blockquote>
-<p><em>"  A full operating system that runs inside your current one with Tor. "</em></p>
-</blockquote>
-<p style="box-sizing: inherit; margin: 0px 0px 26px; padding: 0px; color: #222222; font-family: Roboto, sans-serif; background-color: #ffffff;"><strong style="box-sizing: inherit;">Whonix</strong> est un système d’exploitation axé sur l’anonymat, la sécurité et la confidentialité. Whonix est une distribution Linux basée sur Debian, anciennement connue sous le nom de <em style="box-sizing: inherit;">TorBOX</em>.</p>
-<p style="box-sizing: inherit; margin: 0px 0px 26px; padding: 0px; color: #222222; font-family: Roboto, sans-serif; background-color: #ffffff;">Conçu pour assurer l’anonymat au moyen de <a href="https://www.virtualbox.org/" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: inherit; color: #2947f2;">VirtualBox</a> et de <a href="https://www.torproject.org/" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: inherit; color: #2947f2;">Tor</a>, Whonix fait en sorte que ni les logiciels malveillants ni les comptes super-utilisateurs compromis ne peuvent conduire à des fuites IP et DNS. Tous les logiciels fournis avec cet OS sont préconfigurés pour fonctionner avec des paramètres de sécurité maximum.</p>
-<p style="box-sizing: inherit; margin: 0px 0px 26px; padding: 0px; color: #222222; font-family: Roboto, sans-serif; background-color: #ffffff;">Whonix OS se compose de deux machines virtuelles : <strong style="box-sizing: inherit;">Whonix Gateway</strong> et <strong style="box-sizing: inherit;">Whonix Workstation</strong>, connectés via un réseau isolé. Gateway fonctionne exclusivement via Tor et agit comme une passerelle vers le réseau. Workstation fonctionne dans un réseau complètement isolé.</p>
-<p style="box-sizing: inherit; margin: 0px 0px 26px; padding: 0px; color: #222222; font-family: Roboto, sans-serif; background-color: #ffffff;">Toutes les connexions réseau ne sont possibles que via Tor. Le seul accès réseau pour le poste de travail est la passerelle. Tout le trafic, toutes les applications et tous les processus passeront par Tor. </p>
-<p style="box-sizing: inherit; margin: 0px 0px 26px; padding: 0px; color: #222222; font-family: Roboto, sans-serif; background-color: #ffffff;"></p>
-<h2><img src="https://www.privacytools.io/img/apps/tails.svg" width="50" height="50" style="font-size: 16px;"> <a href="https://tails.boum.org/" target="_blank" rel="noopener">Tails</a></h2>
-<blockquote>
-<p>"  Portable, encrypted and secure through the Tor network  "</p>
-</blockquote>
-<p><strong>Tails </strong>est un système d’exploitation complet que vous pouvez installer sur votre ordinateur avec une clé USB ou un lecteur de disque. Il est similaire à Windows ou à MacOS, car il possède des applications (comme un navigateur web, un client de messagerie, une suite bureautique, etc.), mais Tails est destiné plus particulièrement à sécuriser votre activité sur internet.</p>
-<p>Il est connu sous le nom de système amnésique, car il ne stocke aucun journal d’activité et ne laisse aucune trace sur votre appareil (sauf si vous le configurez spécifiquement pour cela). Lors de son installation, il s’exécute à partir de de votre clé USB ou du lecteur de disque, mais il n’interagit pas avec votre système d’exploitation principal — il n’y a donc aucun moyen d’enregistrer les données des utilisateurs. Dès que vous éjectez la clé USB et redémarrez l’ordinateur, c’est comme si Tails n’avait jamais existé.</p>
-<p>Tails vous permet de <a href="https://fr.wizcase.com/blog/guide-pour-utiliser-tor/" target="_blank" rel="noopener noreferrer follow">vous connecter en utilisant Tor</a> (The Onion Router) pour créer une connexion anonyme et sécurisée. <strong>Tor</strong> est un réseau mondial qui dirige votre connexion à travers trois ordinateurs différents sur le réseau (appelés nœuds) avant de vous connecter à un site web.</p>
-<p>Votre adresse IP change chaque fois que vous vous connectez à un nouveau nœud, et chaque nœud ne connaît que les adresses IP d’où provient votre connexion et vers lesquelles elle se dirige. Cela signifie qu’au moment où la connexion atteint le troisième nœud, votre adresse IP originale est entièrement masquée. Toutes les dix minutes environ, votre chemin d’accès est également redéfini d’une manière aléatoire, votre connexion passe donc d’un ensemble de trois nœuds à un autre.</p>
-<p></p>
-<h2 style="box-sizing: inherit; margin: 0px 0px 26px; padding: 0px; color: #222222; font-family: Roboto, sans-serif; background-color: #ffffff;"><img src="https://www.privacytools.io/img/apps/qubes-os.svg" width="50" height="50">   <a href="https://www.qubes-os.org/downloads/" target="_blank" rel="noopener"><span style="color: #222222; font-family: Roboto, sans-serif;">Qubes OS</span></a></h2>
-<blockquote>
-<p>" A reasonably secure operating system "</p>
-</blockquote>
-<p><strong>Qubes OS</strong> est un système d'exploitation basé sur Linux/Fedora, qui se dit ultra-sécurisé, et qui est proposé en téléchargement libre par Invisible Things Labs.</p>
-<p>L'idée est de donner aux utilisateurs la possibilité de créer des filtres sécurisés et strictes pour chaque action et chaque application qu'ils utilisent. En clair, <strong>il s'agit de partitionner votre vie numérique, au sein de différentes rubriques. Qubes OS vous laisse ce choix à 100 %.</strong></p>
-<p>Par exemple, si vous voulez qu'un navigateur web (en l'occurrence, Firefox), fonctionne sur une machine virtuelle seule, dans son coin, et pour une tâche bien définie (comme aller sur le site de votre banque), c'est possible.</p>
-<p>Sur la base de machines virtuelles (<strong>VMS</strong>) fonctionnant localement, vous pouvez leur attribuer le niveau de sécurité que vous souhaitez. Cela dépend de vos besoins, mais également de ce qui se passe à l'intérieur de ces VMS.</p>
-<p>Qubes OS affiche ensuite les niveaux de sécurité en couleur : vert, jaune et rouge. La couleur rouge correspond à un environnement totalement sécurisé et ne permettant rien de plus que ce que vous avez configuré à l'origine pour la (ou les) application qui y fonctionne.</p>
-<p></p>
-<p> </p>
-<p></p>
-<pre><em>Les systèmes d'exploitation qui assurent le respect de la vie privée sont aujourd'hui </em><br><em>plus que jamais indispensables. Ces systèmes d'exploitation sont adaptés à l'ère numérique </em><br><em>et ont été conçus dans un souci de sécurité et de confidentialité. </em><br><em>Ils disposent même de fonctionnalités avancées pour protéger les données de leurs utilisateurs.</em></pre>
+<p>Les Firmware de routeur open source : <br>une alternative libre et puissante aux Firmware propriétaires 😏</p>
+<p>Vous en avez assez de votre Firmware de routeur propriétaire qui rame, qui n'offre pas les fonctionnalités que vous souhaitez et qui vous oblige à accepter des mises à jour imposées par le fabricant ? Il est peut-être temps de passer à un Firmware de routeur open source !</p>
+<p>Qu'est-ce qu'un Firmware de routeur open source ?</p>
+<p>Un Firmware de routeur open source est un système d'exploitation pour votre routeur qui est publié sous une licence libre, ce qui signifie que vous avez le droit de l'utiliser, de l'étudier, de le modifier et de le distribuer gratuitement. Contrairement aux Firmware propriétaires, qui sont souvent limités et fermés, les Firmware de routeur open source vous offrent une grande liberté et une grande flexibilité pour personnaliser votre routeur selon vos besoins.</p>
+<p>Pourquoi utiliser un Firmware de routeur open source ?</p>
+<p>Il y a plusieurs raisons pour lesquelles vous devriez considérer l'utilisation d'un Firmware de routeur open source :</p>
+<ul>
+<li>Vous avez un accès complet au code source : vous pouvez lire et comprendre le fonctionnement interne de votre Firmware, et même apporter des modifications si vous le souhaitez. Cela peut être particulièrement utile si vous avez des besoins spécifiques ou si vous voulez ajouter des fonctionnalités qui ne sont pas disponibles dans votre Firmware propriétaire.<br><br></li>
+<li>Vous êtes libre de choisir votre Firmware : il existe plusieurs Firmware de routeur open source différents, chacun avec ses propres caractéristiques et fonctionnalités. Vous pouvez donc choisir celui qui convient le mieux à vos besoins et à votre routeur.<br><br></li>
+<li>Vous êtes libre de choisir votre version : avec un Firmware de routeur open source, vous êtes libre de choisir quand mettre à jour votre routeur et quelle version utiliser. Vous n'êtes pas obligé d'accepter des mises à jour imposées par le fabricant qui peuvent apporter des modifications indésirables ou des bugs.<br><br></li>
+<li>Vous bénéficiez d'une meilleure sécurité : les Firmware de routeur open source sont souvent mieux maintenus et mieux sécurisés que les Firmware propriétaires, car ils bénéficient d'une communauté de développeurs et d'utilisateurs actifs qui contribuent à améliorer leur qualité et à corriger les éventuels problèmes de sécurité. En utilisant un Firmware de routeur open source, vous avez donc moins de risques de subir une attaque ou une faille de sécurité.</li>
+</ul>
+<p>Quelques exemples de Firmware de routeur open source populaires</p>
+<p>Voici quelques exemples de Firmware de routeur open source populaires que vous pouvez utiliser sur votre routeur :</p>
+<ul>
+<li>DD-WRT : un des Firmware de routeur open source les plus connus et les plus utilisés, avec une large gamme de fonctionnalités avancées pour personnaliser votre routeur.<br><br></li>
+<li>OpenWrt : un Firmware de routeur open source très polyvalent et modulaire, qui vous permet de sélectionner les fonctionnalités que vous souhaitez utiliser et de les ajouter à votre routeur.<br><br></li>
+<li>Tomato : un Firmware de routeur open source facile à utiliser et à personnaliser, qui offre une interface Web conviviale et une grande variété de fonctionnalités avancées.</li>
+</ul>
+<p>Comment installer un Firmware de routeur open source ?</p>
+<p>Il existe plusieurs étapes à suivre pour installer un Firmware de routeur open source sur votre routeur :</p>
+<ol>
+<li>Téléchargez le Firmware de routeur open source de votre choix sur le site Web du projet ou sur un dépôt de paquets en ligne.<br><br></li>
+<li>Suivez les instructions du projet pour préparer votre routeur et le flasher (installer) avec le Firmware de routeur open source. Cela peut nécessiter de télécharger un utilitaire de flash spécifique et de suivre une procédure de flash détaillée.<br><br></li>
+<li>Configurez votre routeur en utilisant l'interface Web du Firmware de routeur open source. Vous devrez définir les paramètres de réseau, de sécurité et d'autres options selon vos besoins.<br><br></li>
+<li>Profitez de votre nouveau Firmware de routeur open source !</li>
+</ol>
+<p>En résumé, les Firmware de route open source sont une excellente alternative aux Firmware propriétaires, qui vous offrent une grande liberté et une grande flexibilité pour personnaliser votre routeur selon vos besoins. N'hésitez pas à explorer les différents Firmware de routeur open source disponibles et à expérimenter avec eux pour découvrir toutes leurs fonctionnalités.</p>
+<p>Bon développement !</p>
